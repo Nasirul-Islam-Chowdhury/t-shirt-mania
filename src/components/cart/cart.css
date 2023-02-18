@@ -1,0 +1,13 @@
+.red{
+    background-color: beige;
+}
+.order{
+    background-color: aqua;
+    padding: 10px 10px;
+}
+.cart{
+    background-color: aqua;
+}
+.text{
+    text-align: start;
+}

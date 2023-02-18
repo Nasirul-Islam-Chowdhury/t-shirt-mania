@@ -1,0 +1,10 @@
+.navigation{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    color: aqua;
+    background-color: aqua;
+}
+.home{
+    text-decoration: none;
+}

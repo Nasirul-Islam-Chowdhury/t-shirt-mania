@@ -1,0 +1,19 @@
+.tshirt-image{
+    height: 250px;
+}
+.tshirt{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    margin: 5px;
+}
+.buy-btn{
+    background-color: aqua;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.buy-btn:hover{
+    cursor: pointer;
+    color: aliceblue;
+}
